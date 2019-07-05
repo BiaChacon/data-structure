@@ -1,0 +1,1608 @@
+﻿
+############################################## Análise Algoritmo SelectionSort ###################################################################
+
+###############################################################################################################################################
+-->10.000 Aleatório
+
+#Execução 1 de 25
+Execution time (hr): 0s 128.917044ms
+rss 20.11 MB
+heapTotal 10.73 MB
+heapUsed 4.65 MB
+external 0.01 MB
+
+#Execução 2 de 25
+Execution time (hr): 0s 128.40046ms
+rss 20.96 MB
+heapTotal 10.73 MB
+heapUsed 5.54 MB
+external 0.06 MB
+
+#Execução 3 de 25
+Execution time (hr): 0s 133.141745ms
+rss 21.94 MB
+heapTotal 11.23 MB
+heapUsed 5.04 MB
+external 0.01 MB
+
+#Execução 4 de 25
+Execution time (hr): 0s 121.433457ms
+rss 22.3 MB
+heapTotal 11.23 MB
+heapUsed 5.56 MB
+external 0.06 MB
+
+#Execução 5 de 25
+Execution time (hr): 0s 120.665459ms
+rss 22.86 MB
+heapTotal 11.23 MB
+heapUsed 6.09 MB
+external 0.12 MB
+
+#Execução 6 de 25
+Execution time (hr): 0s 121.558989ms
+rss 22.86 MB
+heapTotal 11.23 MB
+heapUsed 5.01 MB
+external 0.01 MB
+
+#Execução 7 de 25
+Execution time (hr): 0s 122.652807ms
+rss 23.03 MB
+heapTotal 11.23 MB
+heapUsed 5.53 MB
+external 0.06 MB
+
+#Execução 8 de 25
+Execution time (hr): 0s 121.349888ms
+rss 23.16 MB
+heapTotal 11.23 MB
+heapUsed 6.05 MB
+external 0.12 MB
+
+#Execução 9 de 25
+Execution time (hr): 0s 123.000134ms
+rss 22.93 MB
+heapTotal 11.23 MB
+heapUsed 4.98 MB
+external 0.01 MB
+
+#Execução 10 de 25
+Execution time (hr): 0s 124.288243ms
+rss 23.1 MB
+heapTotal 11.23 MB
+heapUsed 5.5 MB
+external 0.06 MB
+
+#Execução 11 de 25
+Execution time (hr): 0s 129.672349ms
+rss 23.16 MB
+heapTotal 11.23 MB
+heapUsed 6.02 MB
+external 0.12 MB
+
+#Execução 12 de 25
+Execution time (hr): 0s 121.410185ms
+rss 23.05 MB
+heapTotal 15.23 MB
+heapUsed 5.01 MB
+external 0.01 MB
+
+#Execução 13 de 25
+Execution time (hr): 0s 135.236993ms
+rss 23.22 MB
+heapTotal 15.23 MB
+heapUsed 5.53 MB
+external 0.06 MB
+
+#Execução 14 de 25
+Execution time (hr): 0s 124.713146ms
+rss 23.28 MB
+heapTotal 15.23 MB
+heapUsed 6.05 MB
+external 0.12 MB
+
+#Execução 15 de 25
+Execution time (hr): 0s 123.496266ms
+rss 23.57 MB
+heapTotal 15.23 MB
+heapUsed 6.57 MB
+external 0.18 MB
+
+#Execução 16 de 25
+Execution time (hr): 0s 121.520907ms
+rss 24.15 MB
+heapTotal 15.23 MB
+heapUsed 7.1 MB
+external 0.23 MB
+
+#Execução 17 de 25
+Execution time (hr): 0s 120.79099ms
+rss 24.72 MB
+heapTotal 15.23 MB
+heapUsed 7.62 MB
+external 0.29 MB
+
+#Execução 18 de 25
+Execution time (hr): 0s 121.065326ms
+rss 25.3 MB
+heapTotal 15.23 MB
+heapUsed 8.14 MB
+external 0.35 MB
+
+#Execução 19 de 25
+Execution time (hr): 0s 125.861619ms
+rss 25 MB
+heapTotal 15.23 MB
+heapUsed 5 MB
+external 0.01 MB
+
+#Execução 20 de 25
+Execution time (hr): 0s 121.22224ms
+rss 25.18 MB
+heapTotal 15.23 MB
+heapUsed 5.53 MB
+external 0.06 MB
+
+#Execução 21 de 25
+Execution time (hr): 0s 121.63057ms
+rss 25.23 MB
+heapTotal 15.23 MB
+heapUsed 6.05 MB
+external 0.12 MB
+
+#Execução 22 de 25
+Execution time (hr): 0s 123.388365ms
+rss 25.52 MB
+heapTotal 15.23 MB
+heapUsed 6.57 MB
+external 0.18 MB
+
+#Execução 23 de 25
+Execution time (hr): 0s 123.796343ms
+rss 26.1 MB
+heapTotal 15.23 MB
+heapUsed 7.09 MB
+external 0.23 MB
+
+#Execução 24 de 25
+Execution time (hr): 0s 122.348498ms
+rss 26.67 MB
+heapTotal 15.23 MB
+heapUsed 7.62 MB
+external 0.29 MB
+
+#Execução 25 de 25
+Execution time (hr): 0s 122.576641ms
+rss 27.25 MB
+heapTotal 15.23 MB
+heapUsed 8.14 MB
+external 0.35 MB
+
+###############################################################################################################################################
+-->10.000 Crescente
+
+#Execução 1 de 25
+Execution time (hr): 0s 121.661953ms
+rss 20.03 MB
+heapTotal 10.73 MB
+heapUsed 4.66 MB
+external 0.01 MB
+
+#Execução 2 de 25
+Execution time (hr): 0s 123.778359ms
+rss 20.88 MB
+heapTotal 10.73 MB
+heapUsed 5.53 MB
+external 0.06 MB
+
+#Execução 3 de 25
+Execution time (hr): 0s 121.77338ms
+rss 21.85 MB
+heapTotal 11.23 MB
+heapUsed 5.03 MB
+external 0.01 MB
+
+#Execução 4 de 25
+Execution time (hr): 0s 118.376975ms
+rss 22.16 MB
+heapTotal 11.23 MB
+heapUsed 5.56 MB
+external 0.06 MB
+
+#Execução 5 de 25
+Execution time (hr): 0s 115.106455ms
+rss 22.71 MB
+heapTotal 11.23 MB
+heapUsed 6.08 MB
+external 0.12 MB
+
+#Execução 6 de 25
+Execution time (hr): 0s 115.861407ms
+rss 22.77 MB
+heapTotal 11.23 MB
+heapUsed 5 MB
+external 0.01 MB
+
+#Execução 7 de 25
+Execution time (hr): 0s 124.163064ms
+rss 22.89 MB
+heapTotal 11.23 MB
+heapUsed 5.53 MB
+external 0.06 MB
+
+#Execução 8 de 25
+Execution time (hr): 0s 115.256669ms
+rss 22.99 MB
+heapTotal 11.23 MB
+heapUsed 6.05 MB
+external 0.12 MB
+
+#Execução 9 de 25
+Execution time (hr): 0s 114.00347ms
+rss 22.82 MB
+heapTotal 11.23 MB
+heapUsed 5 MB
+external 0.01 MB
+
+#Execução 10 de 25
+Execution time (hr): 0s 117.116371ms
+rss 22.94 MB
+heapTotal 11.23 MB
+heapUsed 5.52 MB
+external 0.06 MB
+
+#Execução 11 de 25
+Execution time (hr): 0s 113.420594ms
+rss 23 MB
+heapTotal 11.23 MB
+heapUsed 6.05 MB
+external 0.12 MB
+
+#Execução 12 de 25
+Execution time (hr): 0s 114.536274ms
+rss 22.94 MB
+heapTotal 15.23 MB
+heapUsed 5 MB
+external 0.01 MB
+
+#Execução 13 de 25
+Execution time (hr): 0s 115.282058ms
+rss 23.06 MB
+heapTotal 15.23 MB
+heapUsed 5.52 MB
+external 0.06 MB
+
+#Execução 14 de 25
+Execution time (hr): 0s 116.19322ms
+rss 23.12 MB
+heapTotal 15.23 MB
+heapUsed 6.05 MB
+external 0.12 MB
+
+#Execução 15 de 25
+Execution time (hr): 0s 114.18683ms
+rss 23.42 MB
+heapTotal 15.23 MB
+heapUsed 6.57 MB
+external 0.18 MB
+
+#Execução 16 de 25
+Execution time (hr): 0s 116.008449ms
+rss 24 MB
+heapTotal 15.23 MB
+heapUsed 7.09 MB
+external 0.23 MB
+
+#Execução 17 de 25
+Execution time (hr): 0s 114.730918ms
+rss 24.57 MB
+heapTotal 15.23 MB
+heapUsed 7.61 MB
+external 0.29 MB
+
+#Execução 18 de 25
+Execution time (hr): 0s 113.786963ms
+rss 25.15 MB
+heapTotal 15.23 MB
+heapUsed 8.14 MB
+external 0.35 MB
+
+#Execução 19 de 25
+Execution time (hr): 0s 115.18262ms
+rss 24.9 MB
+heapTotal 15.23 MB
+heapUsed 5 MB
+external 0.01 MB
+
+#Execução 20 de 25
+Execution time (hr): 0s 115.735524ms
+rss 25.02 MB
+heapTotal 15.23 MB
+heapUsed 5.52 MB
+external 0.06 MB
+
+#Execução 21 de 25
+Execution time (hr): 0s 131.46611ms
+rss 25.08 MB
+heapTotal 15.23 MB
+heapUsed 6.04 MB
+external 0.12 MB
+
+#Execução 22 de 25
+Execution time (hr): 0s 119.106892ms
+rss 25.38 MB
+heapTotal 15.23 MB
+heapUsed 6.57 MB
+external 0.18 MB
+
+#Execução 23 de 25
+Execution time (hr): 0s 114.405805ms
+rss 25.95 MB
+heapTotal 15.23 MB
+heapUsed 7.09 MB
+external 0.23 MB
+
+#Execução 24 de 25
+Execution time (hr): 0s 116.521858ms
+rss 26.53 MB
+heapTotal 15.23 MB
+heapUsed 7.61 MB
+external 0.29 MB
+
+#Execução 25 de 25
+Execution time (hr): 0s 116.188636ms
+rss 27.1 MB
+heapTotal 15.23 MB
+heapUsed 8.13 MB
+external 0.35 MB
+
+###############################################################################################################################################
+-->10.000 Decrescente
+
+#Execução 1 de 25
+Execution time (hr): 0s 190.723005ms
+rss 20.13 MB
+heapTotal 10.73 MB
+heapUsed 4.65 MB
+external 0.01 MB
+
+#Execução 2 de 25
+Execution time (hr): 0s 190.123909ms
+rss 21.01 MB
+heapTotal 10.73 MB
+heapUsed 5.54 MB
+external 0.06 MB
+
+#Execução 3 de 25
+Execution time (hr): 0s 179.374387ms
+rss 21.77 MB
+heapTotal 11.23 MB
+heapUsed 5.04 MB
+external 0.01 MB
+
+#Execução 4 de 25
+Execution time (hr): 0s 179.021418ms
+rss 22.13 MB
+heapTotal 11.23 MB
+heapUsed 5.56 MB
+external 0.06 MB
+
+#Execução 5 de 25
+Execution time (hr): 0s 181.20341ms
+rss 22.7 MB
+heapTotal 11.23 MB
+heapUsed 6.08 MB
+external 0.12 MB
+
+#Execução 6 de 25
+Execution time (hr): 0s 183.553248ms
+rss 22.87 MB
+heapTotal 11.23 MB
+heapUsed 5.01 MB
+external 0.01 MB
+
+#Execução 7 de 25
+Execution time (hr): 0s 181.440017ms
+rss 23.02 MB
+heapTotal 11.23 MB
+heapUsed 5.53 MB
+external 0.06 MB
+
+#Execução 8 de 25
+Execution time (hr): 0s 184.909766ms
+rss 23.12 MB
+heapTotal 11.23 MB
+heapUsed 6.05 MB
+external 0.12 MB
+
+#Execução 9 de 25
+Execution time (hr): 0s 186.168959ms
+rss 22.93 MB
+heapTotal 11.23 MB
+heapUsed 5.01 MB
+external 0.01 MB
+
+#Execução 10 de 25
+Execution time (hr): 0s 187.62703ms
+rss 23.07 MB
+heapTotal 11.23 MB
+heapUsed 5.53 MB
+external 0.06 MB
+
+#Execução 11 de 25
+Execution time (hr): 0s 182.740819ms
+rss 23.13 MB
+heapTotal 11.23 MB
+heapUsed 6.05 MB
+external 0.12 MB
+
+#Execução 12 de 25
+Execution time (hr): 0s 184.323363ms
+rss 23.05 MB
+heapTotal 15.23 MB
+heapUsed 5.01 MB
+external 0.01 MB
+
+#Execução 13 de 25
+Execution time (hr): 0s 181.685437ms
+rss 23.2 MB
+heapTotal 15.23 MB
+heapUsed 5.53 MB
+external 0.06 MB
+
+#Execução 14 de 25
+Execution time (hr): 0s 177.941001ms
+rss 23.25 MB
+heapTotal 15.23 MB
+heapUsed 6.05 MB
+external 0.12 MB
+
+#Execução 15 de 25
+Execution time (hr): 0s 179.73723ms
+rss 23.54 MB
+heapTotal 15.23 MB
+heapUsed 6.57 MB
+external 0.18 MB
+
+#Execução 16 de 25
+Execution time (hr): 0s 212.344408ms
+rss 24.11 MB
+heapTotal 15.23 MB
+heapUsed 7.1 MB
+external 0.23 MB
+
+#Execução 17 de 25
+Execution time (hr): 0s 180.284138ms
+rss 24.69 MB
+heapTotal 15.23 MB
+heapUsed 7.62 MB
+external 0.29 MB
+
+#Execução 18 de 25
+Execution time (hr): 0s 181.70589ms
+rss 25.26 MB
+heapTotal 15.23 MB
+heapUsed 8.14 MB
+external 0.35 MB
+
+#Execução 19 de 25
+Execution time (hr): 0s 178.670564ms
+rss 25.02 MB
+heapTotal 15.23 MB
+heapUsed 5 MB
+external 0.01 MB
+
+#Execução 20 de 25
+Execution time (hr): 0s 180.312348ms
+rss 25.15 MB
+heapTotal 15.23 MB
+heapUsed 5.53 MB
+external 0.06 MB
+
+#Execução 21 de 25
+Execution time (hr): 0s 179.636735ms
+rss 25.2 MB
+heapTotal 15.23 MB
+heapUsed 6.05 MB
+external 0.12 MB
+
+#Execução 22 de 25
+Execution time (hr): 0s 180.751708ms
+rss 25.51 MB
+heapTotal 15.23 MB
+heapUsed 6.57 MB
+external 0.18 MB
+
+#Execução 23 de 25
+Execution time (hr): 0s 178.124008ms
+rss 26.08 MB
+heapTotal 15.23 MB
+heapUsed 7.09 MB
+external 0.23 MB
+
+#Execução 24 de 25
+Execution time (hr): 0s 182.979542ms
+rss 26.66 MB
+heapTotal 15.23 MB
+heapUsed 7.62 MB
+external 0.29 MB
+
+#Execução 25 de 25
+Execution time (hr): 0s 177.524207ms
+rss 27.23 MB
+heapTotal 15.23 MB
+heapUsed 8.14 MB
+external 0.35 MB
+
+###############################################################################################################################################
+###############################################################################################################################################
+-->100.000 Aleatório
+
+#Execução 1 de 25
+Execution time (hr): 11s 579.20231ms
+rss 36.29 MB
+heapTotal 28.54 MB
+heapUsed 10.61 MB
+external 0.01 MB
+
+#Execução 2 de 25
+Execution time (hr): 11s 571.707794ms
+rss 39.68 MB
+heapTotal 30.85 MB
+heapUsed 15.96 MB
+external 0.76 MB
+
+#Execução 3 de 25
+Execution time (hr): 11s 841.865484ms
+rss 45.99 MB
+heapTotal 33.16 MB
+heapUsed 21.55 MB
+external 1.51 MB
+
+#Execução 4 de 25
+Execution time (hr): 11s 817.274695ms
+rss 43.55 MB
+heapTotal 35.97 MB
+heapUsed 25.74 MB
+external 0.01 MB
+
+#Execução 5 de 25
+Execution time (hr): 11s 684.220752ms
+rss 33.39 MB
+heapTotal 21.63 MB
+heapUsed 15.23 MB
+external 0.01 MB
+
+#Execução 6 de 25
+Execution time (hr): 11s 627.493529ms
+rss 36.84 MB
+heapTotal 24.43 MB
+heapUsed 20.59 MB
+external 0.01 MB
+
+#Execução 7 de 25
+Execution time (hr): 11s 614.502422ms
+rss 42.23 MB
+heapTotal 31.24 MB
+heapUsed 25.93 MB
+external 0.01 MB
+
+#Execução 8 de 25
+Execution time (hr): 11s 615.449552ms
+rss 47.78 MB
+heapTotal 37.05 MB
+heapUsed 31.25 MB
+external 0.01 MB
+
+#Execução 9 de 25
+Execution time (hr): 11s 799.107174ms
+rss 37.17 MB
+heapTotal 25.63 MB
+heapUsed 15.23 MB
+external 0.01 MB
+
+#Execução 10 de 25
+Execution time (hr): 11s 647.713633ms
+rss 41.3 MB
+heapTotal 28.43 MB
+heapUsed 20.64 MB
+external 0.01 MB
+
+#Execução 11 de 25
+Execution time (hr): 11s 682.241867ms
+rss 43.68 MB
+heapTotal 30.74 MB
+heapUsed 25.93 MB
+external 0.01 MB
+
+#Execução 12 de 25
+Execution time (hr): 11s 759.219166ms
+rss 48.7 MB
+heapTotal 36.55 MB
+heapUsed 31.3 MB
+external 0.01 MB
+
+#Execução 13 de 25
+Execution time (hr): 11s 897.096553ms
+rss 37.02 MB
+heapTotal 24.63 MB
+heapUsed 15.28 MB
+external 0.01 MB
+
+#Execução 14 de 25
+Execution time (hr): 11s 551.207712ms
+rss 40.41 MB
+heapTotal 27.93 MB
+heapUsed 20.6 MB
+external 0.01 MB
+
+#Execução 15 de 25
+Execution time (hr): 11s 557.394726ms
+rss 45.9 MB
+heapTotal 33.74 MB
+heapUsed 25.93 MB
+external 0.01 MB
+
+#Execução 16 de 25
+Execution time (hr): 11s 624.916606ms
+rss 35.04 MB
+heapTotal 22.58 MB
+heapUsed 10.74 MB
+external 0.01 MB
+
+#Execução 17 de 25
+Execution time (hr): 12s 85.41577ms
+rss 38.83 MB
+heapTotal 25.39 MB
+heapUsed 16.02 MB
+external 0.01 MB
+
+#Execução 18 de 25
+Execution time (hr): 12s 101.19396ms
+rss 40.51 MB
+heapTotal 27.7 MB
+heapUsed 21.33 MB
+external 0.01 MB
+
+#Execução 19 de 25
+Execution time (hr): 11s 977.492825ms
+rss 44.27 MB
+heapTotal 31 MB
+heapUsed 26.66 MB
+external 0.01 MB
+
+#Execução 20 de 25
+Execution time (hr): 12s 83.396334ms
+rss 40.36 MB
+heapTotal 27.63 MB
+heapUsed 15.22 MB
+external 0.01 MB
+
+#Execução 21 de 25
+Execution time (hr): 11s 804.021594ms
+rss 43.35 MB
+heapTotal 30.43 MB
+heapUsed 20.55 MB
+external 0.01 MB
+
+#Execução 22 de 25
+Execution time (hr): 11s 699.887515ms
+rss 46 MB
+heapTotal 32.74 MB
+heapUsed 25.88 MB
+external 0.01 MB
+
+#Execução 23 de 25
+Execution time (hr): 11s 462.84195ms
+rss 49.27 MB
+heapTotal 36.05 MB
+heapUsed 31.24 MB
+external 0.01 MB
+
+#Execução 24 de 25
+Execution time (hr): 11s 557.487465ms
+rss 36.26 MB
+heapTotal 23.63 MB
+heapUsed 15.23 MB
+external 0.01 MB
+
+#Execução 25 de 25
+Execution time (hr): 11s 372.265986ms
+rss 40.59 MB
+heapTotal 27.93 MB
+heapUsed 20.58 MB
+external 0.01 MB
+
+###############################################################################################################################################
+-->100.000 Crescente
+
+#Execução 1 de 25
+Execution time (hr): 11s 257.465955ms
+rss 26.61 MB
+heapTotal 18.54 MB
+heapUsed 9.46 MB
+external 0.01 MB
+
+#Execução 2 de 25
+Execution time (hr): 11s 338.651734ms
+rss 29.98 MB
+heapTotal 18.35 MB
+heapUsed 14.77 MB
+external 0.01 MB
+
+#Execução 3 de 25
+Execution time (hr): 11s 228.614498ms
+rss 35.57 MB
+heapTotal 23.66 MB
+heapUsed 20.38 MB
+external 0.01 MB
+
+#Execução 4 de 25
+Execution time (hr): 11s 334.066658ms
+rss 41.06 MB
+heapTotal 28.97 MB
+heapUsed 25.71 MB
+external 0.01 MB
+
+#Execução 5 de 25
+Execution time (hr): 11s 187.417223ms
+rss 46.5 MB
+heapTotal 34.78 MB
+heapUsed 31.04 MB
+external 0.01 MB
+
+#Execução 6 de 25
+Execution time (hr): 11s 318.116039ms
+rss 51.98 MB
+heapTotal 40.09 MB
+heapUsed 36.37 MB
+external 0.01 MB
+
+#Execução 7 de 25
+Execution time (hr): 11s 193.574265ms
+rss 57.4 MB
+heapTotal 45.39 MB
+heapUsed 41.7 MB
+external 0.01 MB
+
+#Execução 8 de 25
+Execution time (hr): 11s 210.467076ms
+rss 62.95 MB
+heapTotal 51.2 MB
+heapUsed 47.03 MB
+external 0.01 MB
+
+#Execução 9 de 25
+Execution time (hr): 11s 439.702885ms
+rss 68.46 MB
+heapTotal 56.51 MB
+heapUsed 52.36 MB
+external 0.01 MB
+
+#Execução 10 de 25
+Execution time (hr): 11s 206.840413ms
+rss 73.86 MB
+heapTotal 61.32 MB
+heapUsed 57.69 MB
+external 0.01 MB
+
+#Execução 11 de 25
+Execution time (hr): 11s 122.017391ms
+rss 79.25 MB
+heapTotal 67.13 MB
+heapUsed 63.02 MB
+external 0.01 MB
+
+#Execução 12 de 25
+Execution time (hr): 11s 422.618602ms
+rss 84.66 MB
+heapTotal 72.44 MB
+heapUsed 68.37 MB
+external 0.01 MB
+
+#Execução 13 de 25
+Execution time (hr): 11s 170.962009ms
+rss 90.46 MB
+heapTotal 77.75 MB
+heapUsed 73.68 MB
+external 0.01 MB
+
+#Execução 14 de 25
+Execution time (hr): 11s 8.270626ms
+rss 44.16 MB
+heapTotal 38.63 MB
+heapUsed 15.22 MB
+external 0.01 MB
+
+#Execução 15 de 25
+Execution time (hr): 11s 93.674408ms
+rss 50.23 MB
+heapTotal 40.93 MB
+heapUsed 20.56 MB
+external 0.76 MB
+
+#Execução 16 de 25
+Execution time (hr): 11s 23.733929ms
+rss 49.38 MB
+heapTotal 37.24 MB
+heapUsed 25.92 MB
+external 0.01 MB
+
+#Execução 17 de 25
+Execution time (hr): 11s 388.48142ms
+rss 51.87 MB
+heapTotal 40.55 MB
+heapUsed 31.28 MB
+external 0.01 MB
+
+#Execução 18 de 25
+Execution time (hr): 11s 364.76759ms
+rss 38.91 MB
+heapTotal 26.82 MB
+heapUsed 9.9 MB
+external 0.01 MB
+
+#Execução 19 de 25
+Execution time (hr): 11s 204.722244ms
+rss 41.29 MB
+heapTotal 29.13 MB
+heapUsed 15.25 MB
+external 0.01 MB
+
+#Execução 20 de 25
+Execution time (hr): 11s 41.502288ms
+rss 43.77 MB
+heapTotal 31.43 MB
+heapUsed 20.56 MB
+external 0.01 MB
+
+#Execução 21 de 25
+Execution time (hr): 11s 74.883108ms
+rss 34.19 MB
+heapTotal 21.82 MB
+heapUsed 9.9 MB
+external 0.01 MB
+
+#Execução 22 de 25
+Execution time (hr): 11s 126.212825ms
+rss 37.13 MB
+heapTotal 24.63 MB
+heapUsed 15.23 MB
+external 0.01 MB
+
+#Execução 23 de 25
+Execution time (hr): 11s 20.852345ms
+rss 39.54 MB
+heapTotal 26.93 MB
+heapUsed 20.56 MB
+external 0.01 MB
+
+#Execução 24 de 25
+Execution time (hr): 10s 992.267466ms
+rss 34.91 MB
+heapTotal 22.82 MB
+heapUsed 9.89 MB
+external 0.01 MB
+
+#Execução 25 de 25
+Execution time (hr): 11s 20.370671ms
+rss 37.36 MB
+heapTotal 25.13 MB
+heapUsed 15.23 MB
+external 0.01 MB
+
+###############################################################################################################################################
+-->100.000 Decrescente
+
+#Execução 1 de 25
+Execution time (hr): 13s 865.88327ms
+rss 32.46 MB
+heapTotal 28.54 MB
+heapUsed 13.52 MB
+external 0.01 MB
+
+#Execução 2 de 25
+Execution time (hr): 13s 849.065213ms
+rss 38.88 MB
+heapTotal 30.85 MB
+heapUsed 19.11 MB
+external 0.76 MB
+
+#Execução 3 de 25
+Execution time (hr): 13s 649.250337ms
+rss 35.92 MB
+heapTotal 25.16 MB
+heapUsed 20.63 MB
+external 0.01 MB
+
+#Execução 4 de 25
+Execution time (hr): 13s 555.744479ms
+rss 41.04 MB
+heapTotal 31.47 MB
+heapUsed 25.97 MB
+external 0.01 MB
+
+#Execução 5 de 25
+Execution time (hr): 13s 360.534778ms
+rss 46.61 MB
+heapTotal 37.78 MB
+heapUsed 31.25 MB
+external 0.01 MB
+
+#Execução 6 de 25
+Execution time (hr): 13s 427.773507ms
+rss 39.84 MB
+heapTotal 55.13 MB
+heapUsed 15.21 MB
+external 0.01 MB
+
+#Execução 7 de 25
+Execution time (hr): 13s 757.409888ms
+rss 45.88 MB
+heapTotal 57.43 MB
+heapUsed 20.55 MB
+external 0.76 MB
+
+#Execução 8 de 25
+Execution time (hr): 13s 427.264328ms
+rss 51.97 MB
+heapTotal 59.74 MB
+heapUsed 25.89 MB
+external 1.51 MB
+
+#Execução 9 de 25
+Execution time (hr): 13s 643.809107ms
+rss 58.09 MB
+heapTotal 62.05 MB
+heapUsed 31.22 MB
+external 2.27 MB
+
+#Execução 10 de 25
+Execution time (hr): 14s 36.61502ms
+rss 64.18 MB
+heapTotal 64.36 MB
+heapUsed 36.56 MB
+external 3.02 MB
+
+#Execução 11 de 25
+Execution time (hr): 13s 358.661326ms
+rss 70.29 MB
+heapTotal 66.67 MB
+heapUsed 41.9 MB
+external 3.77 MB
+
+#Execução 12 de 25
+Execution time (hr): 13s 540.160229ms
+rss 65.38 MB
+heapTotal 53.98 MB
+heapUsed 47.23 MB
+external 0.01 MB
+
+#Execução 13 de 25
+Execution time (hr): 13s 265.318025ms
+rss 39.06 MB
+heapTotal 26.13 MB
+heapUsed 15.2 MB
+external 0.01 MB
+
+#Execução 14 de 25
+Execution time (hr): 13s 400.843459ms
+rss 42.2 MB
+heapTotal 28.93 MB
+heapUsed 20.55 MB
+external 0.01 MB
+
+#Execução 15 de 25
+Execution time (hr): 13s 269.380876ms
+rss 45.65 MB
+heapTotal 32.74 MB
+heapUsed 25.88 MB
+external 0.01 MB
+
+#Execução 16 de 25
+Execution time (hr): 13s 348.40582ms
+rss 31.97 MB
+heapTotal 19.58 MB
+heapUsed 10.71 MB
+external 0.01 MB
+
+#Execução 17 de 25
+Execution time (hr): 13s 277.624702ms
+rss 34.42 MB
+heapTotal 21.89 MB
+heapUsed 15.98 MB
+external 0.01 MB
+
+#Execução 18 de 25
+Execution time (hr): 13s 280.584215ms
+rss 37.94 MB
+heapTotal 25.2 MB
+heapUsed 21.33 MB
+external 0.01 MB
+
+#Execução 19 de 25
+Execution time (hr): 13s 250.341333ms
+rss 43.24 MB
+heapTotal 30.5 MB
+heapUsed 26.64 MB
+external 0.01 MB
+
+#Execução 20 de 25
+Execution time (hr): 13s 251.893905ms
+rss 35.93 MB
+heapTotal 22.89 MB
+heapUsed 15.97 MB
+external 0.01 MB
+
+#Execução 21 de 25
+Execution time (hr): 13s 328.564779ms
+rss 39.91 MB
+heapTotal 27.7 MB
+heapUsed 21.3 MB
+external 0.01 MB
+
+#Execução 22 de 25
+Execution time (hr): 13s 368.128028ms
+rss 43.98 MB
+heapTotal 31.5 MB
+heapUsed 26.63 MB
+external 0.01 MB
+
+#Execução 23 de 25
+Execution time (hr): 13s 258.187056ms
+rss 34.81 MB
+heapTotal 22.13 MB
+heapUsed 15.23 MB
+external 0.01 MB
+
+#Execução 24 de 25
+Execution time (hr): 13s 272.712046ms
+rss 39.8 MB
+heapTotal 28.43 MB
+heapUsed 20.55 MB
+external 0.01 MB
+
+#Execução 25 de 25
+Execution time (hr): 13s 761.430778ms
+rss 45.04 MB
+heapTotal 33.74 MB
+heapUsed 25.9 MB
+external 0.01 MB
+
+###############################################################################################################################################
+###############################################################################################################################################
+-->1.000.000 Aleatório
+
+#Execução 1 de 25
+Execution time (hr): 1156s 318.061736ms
+rss 39.66 MB
+heapTotal 27.13 MB
+heapUsed 20.84 MB
+external 0.01 MB
+
+
+#Execução 2 de 25
+Execution time (hr): 1146s 810.94452ms
+rss 39.55 MB
+heapTotal 27.13 MB
+heapUsed 20.93 MB
+external 0.01 MB
+
+#Execução 3 de 25
+Execution time (hr): 1156s 674.120397ms
+rss 122.56 MB
+heapTotal 111.16 MB
+heapUsed 75.41 MB
+external 0.01 MB
+
+#Execução 4 de 25
+Execution time (hr): 1159s 751.693266ms
+rss 155.02 MB
+heapTotal 149.69 MB
+heapUsed 130.71 MB
+external 0.01 MB
+
+#Execução 5 de 25
+Execution time (hr): 1157s 700.698533ms
+rss 153.9 MB
+heapTotal 156.94 MB
+heapUsed 121.43 MB
+external 0.01 MB
+
+#Execução 6 de 25
+Execution time (hr): 1157s 665.373034ms
+rss 194.29 MB
+heapTotal 183.47 MB
+heapUsed 176.54 MB
+external 0.01 MB
+
+#Execução 7 de 25
+Execution time (hr): 1157s 520.249018ms
+rss 104.09 MB
+heapTotal 106.16 MB
+heapUsed 75.79 MB
+external 0.01 MB
+
+#Execução 8 de 25
+Execution time (hr): 1158s 36.965874ms
+rss 148.33 MB
+heapTotal 138.19 MB
+heapUsed 130.9 MB
+external 0.01 MB
+
+#Execução 9 de 25
+Execution time (hr): 1157s 461.641995ms
+rss 143.93 MB
+heapTotal 132.94 MB
+heapUsed 121.44 MB
+external 0.01 MB
+
+#Execução 10 de 25
+Execution time (hr): 1157s 547.903694ms
+rss 87.89 MB
+heapTotal 82.91 MB
+heapUsed 66.44 MB
+external 0.01 MB
+
+#Execução 11 de 25
+Execution time (hr): 1157s 880.445285ms
+rss 88.24 MB
+heapTotal 77.41 MB
+heapUsed 66.53 MB
+external 0.01 MB
+
+#Execução 12 de 25
+Execution time (hr): 1159s 603.350212ms
+rss 87.67 MB
+heapTotal 96.91 MB
+heapUsed 66.54 MB
+external 0.01 MB
+
+#Execução 13 de 25
+Execution time (hr): 1158s 257.837966ms
+rss 92.78 MB
+heapTotal 86.41 MB
+heapUsed 66.45 MB
+external 0.01 MB
+
+#Execução 14 de 25
+Execution time (hr): 1157s 660.842613ms
+rss 139.83 MB
+heapTotal 125.94 MB
+heapUsed 121.59 MB
+external 0.01 MB
+
+#Execução 15 de 25
+Execution time (hr): 1157s 291.215611ms
+rss 142.3 MB
+heapTotal 129.44 MB
+heapUsed 121.61 MB
+external 0.01 MB
+
+#Execução 16 de 25
+Execution time (hr): 1157s 334.873446ms
+rss 90.13 MB
+heapTotal 77.91 MB
+heapUsed 66.45 MB
+external 0.01 MB
+
+#Execução 17 de 25
+Execution time (hr): 1157s 312.667052ms
+rss 100.41 MB
+heapTotal 96.66 MB
+heapUsed 75.69 MB
+external 0.01 MB
+
+#Execução 18 de 25
+Execution time (hr): 1157s 212.040099ms
+rss 87.14 MB
+heapTotal 73.41 MB
+heapUsed 66.42 MB
+external 0.01 MB
+
+#Execução 19 de 25
+Execution time (hr): 1156s 978.526696ms
+rss 119.77 MB
+heapTotal 114.66 MB
+heapUsed 75.71 MB
+external 0.01 MB
+
+#Execução 20 de 25
+Execution time (hr): 1158s 219.735255ms
+rss 154.92 MB
+heapTotal 148.69 MB
+heapUsed 130.72 MB
+external 0.01 MB
+
+#Execução 21 de 25
+Execution time (hr): 1157s 127.903623ms
+rss 145.18 MB
+heapTotal 142.44 MB
+heapUsed 121.5 MB
+external 0.01 MB
+
+#Execução 22 de 25
+Execution time (hr): 1157s 399.970733ms
+rss 194.72 MB
+heapTotal 182.47 MB
+heapUsed 176.71 MB
+external 0.01 MB
+
+#Execução 23 de 25
+Execution time (hr): 1157s 898.445312ms
+rss 90.48 MB
+heapTotal 79.91 MB
+heapUsed 66.47 MB
+external 0.01 MB
+
+#Execução 24 de 25
+Execution time (hr): 1157s 323.356982ms
+rss 95.07 MB
+heapTotal 85.66 MB
+heapUsed 75.74 MB
+external 0.01 MB
+
+#Execução 25 de 25
+Execution time (hr): 1163s 692.056249ms
+rss 85.63 MB
+heapTotal 72.91 MB
+heapUsed 66.46 MB
+external 0.01 MB
+
+###############################################################################################################################################
+-->1.000.000 Crescente
+
+#Execução 1 de 25
+Execution time (hr): 1116s 796.436455ms
+rss 103.76 MB
+heapTotal 92.77 MB
+heapUsed 59.14 MB
+external 0.01 MB
+
+#Execução 2 de 25
+Execution time (hr): 1131s 880.067631ms
+rss 136.3 MB
+heapTotal 131.3 MB
+heapUsed 114.17 MB
+external 0.01 MB
+
+#Execução 3 de 25
+Execution time (hr): 1130s 611.536915ms
+rss 144.66 MB
+heapTotal 142.44 MB
+heapUsed 121.48 MB
+external 0.01 MB
+
+#Execução 4 de 25
+Execution time (hr): 1232s 990.558333ms
+rss 72.52 MB
+heapTotal 112.16 MB
+heapUsed 75.67 MB
+external 0.01 MB
+
+#Execução 5 de 25
+Execution time (hr): 1202s 570.6778ms
+rss 96.64 MB
+heapTotal 137.69 MB
+heapUsed 130.97 MB
+external 0.01 MB
+
+#Execução 6 de 25
+Execution time (hr): 1201s 923.145765ms
+rss 141.37 MB
+heapTotal 137.44 MB
+heapUsed 121.58 MB
+external 0.01 MB
+
+#Execução 7 de 25
+Execution time (hr): 1200s 601.607932ms
+rss 91.06 MB
+heapTotal 83.41 MB
+heapUsed 66.42 MB
+external 0.01 MB
+
+#Execução 8 de 25
+Execution time (hr): 1207s 294.024556ms
+rss 87.77 MB
+heapTotal 88.91 MB
+heapUsed 66.42 MB
+external 0.01 MB
+
+#Execução 9 de 25
+Execution time (hr): 1202s 554.537473ms
+rss 85.31 MB
+heapTotal 80.41 MB
+heapUsed 66.44 MB
+external 0.01 MB
+
+#Execução 10 de 25
+Execution time (hr): 1217s 250.874489ms
+rss 86.02 MB
+heapTotal 76.41 MB
+heapUsed 66.43 MB
+external 0.01 MB
+
+#Execução 11 de 25
+Execution time (hr): 1230s 177.658554ms
+rss 54.5 MB
+heapTotal 98.16 MB
+heapUsed 75.66 MB
+external 0.01 MB
+
+#Execução 12 de 25
+Execution time (hr): 1222s 591.676129ms
+rss 87.35 MB
+heapTotal 91.91 MB
+heapUsed 66.45 MB
+external 0.01 MB
+
+#Execução 13 de 25
+Execution time (hr): 1211s 940.750509ms
+rss 85.86 MB
+heapTotal 88.91 MB
+heapUsed 66.45 MB
+external 0.01 MB
+
+#Execução 14 de 25
+Execution time (hr): 1206s 419.546605ms
+rss 78.86 MB
+heapTotal 129.44 MB
+heapUsed 121.59 MB
+external 0.01 MB
+
+#Execução 15 de 25
+Execution time (hr): 1133s 842.480447ms
+rss 110.57 MB
+heapTotal 130.94 MB
+heapUsed 121.45 MB
+external 0.01 MB
+
+
+#Execução 16 de 25
+Execution time (hr): 1157s 334.873446ms
+rss 90.13 MB
+heapTotal 77.91 MB
+heapUsed 66.45 MB
+external 0.01 MB
+
+#Execução 17 de 25
+Execution time (hr): 1157s 312.667052ms
+rss 100.41 MB
+heapTotal 96.66 MB
+heapUsed 75.69 MB
+external 0.01 MB
+
+#Execução 18 de 25
+Execution time (hr): 1157s 212.040099ms
+rss 87.14 MB
+heapTotal 73.41 MB
+heapUsed 66.42 MB
+external 0.01 MB
+
+#Execução 19 de 25
+Execution time (hr): 1156s 978.526696ms
+rss 119.77 MB
+heapTotal 114.66 MB
+heapUsed 75.71 MB
+external 0.01 MB
+
+#Execução 20 de 25
+Execution time (hr): 1158s 219.735255ms
+rss 154.92 MB
+heapTotal 148.69 MB
+heapUsed 130.72 MB
+external 0.01 MB
+
+#Execução 21 de 25
+Execution time (hr): 1157s 127.903623ms
+rss 145.18 MB
+heapTotal 142.44 MB
+heapUsed 121.5 MB
+external 0.01 MB
+
+#Execução 22 de 25
+Execution time (hr): 1157s 399.970733ms
+rss 194.72 MB
+heapTotal 182.47 MB
+heapUsed 176.71 MB
+external 0.01 MB
+
+#Execução 23 de 25
+Execution time (hr): 1157s 898.445312ms
+rss 90.48 MB
+heapTotal 79.91 MB
+heapUsed 66.47 MB
+external 0.01 MB
+
+#Execução 24 de 25
+Execution time (hr): 1157s 323.356982ms
+rss 95.07 MB
+heapTotal 85.66 MB
+heapUsed 75.74 MB
+external 0.01 MB
+
+#Execução 25 de 25
+Execution time (hr): 1163s 692.056249ms
+rss 85.63 MB
+heapTotal 72.91 MB
+heapUsed 66.46 MB
+external 0.01 MB
+
+###############################################################################################################################################
+-->1.000.000 Decrescente
+
+#Execução 1 de 25
+Execution time (hr): 1350s 395.941733ms
+rss 37.22 MB
+heapTotal 26.13 MB
+heapUsed 20.53 MB
+external 0.01 MB
+
+#Execução 2 de 25
+Execution time (hr): 1312s 727.888107ms
+rss 122.38 MB
+heapTotal 111.66 MB
+heapUsed 75.41 MB
+external 0.01 MB
+
+#Execução 3 de 25
+Execution time (hr): 1344s 303.917573ms
+rss 143.62 MB
+heapTotal 149.69 MB
+heapUsed 130.7 MB
+external 0.01 MB
+
+#Execução 4 de 25
+Execution time (hr): 1352s 756.429615ms
+rss 89.4 MB
+heapTotal 143.94 MB
+heapUsed 121.44 MB
+external 0.01 MB
+
+#Execução 5 de 25
+Execution time (hr): 1333s 817.237671ms
+rss 85.12 MB
+heapTotal 188.47 MB
+heapUsed 176.68 MB
+external 0.01 MB
+
+#Execução 6 de 25
+Execution time (hr): 1346s 852.484891ms
+rss 35.71 MB
+heapTotal 26.13 MB
+heapUsed 20.56 MB
+external 0.01 MB
+
+#Execução 7 de 25
+Execution time (hr): 1340s 18.686926ms
+rss 111.9 MB
+heapTotal 111.16 MB
+heapUsed 75.65 MB
+external 0.01 MB
+
+#Execução 8 de 25
+Execution time (hr): 1338s 454.575908ms
+rss 87.53 MB
+heapTotal 139.69 MB
+heapUsed 130.72 MB
+external 0.01 MB
+
+#Execução 9 de 25
+Execution time (hr): 1360s 157.21736ms
+rss 37.98 MB
+heapTotal 26.13 MB
+heapUsed 20.62 MB
+external 0.01 MB
+
+#Execução 10 de 25
+Execution time (hr): 1350s 5.42254ms
+rss 112.65 MB
+heapTotal 111.16 MB
+heapUsed 75.41 MB
+external 0.01 MB
+
+#Execução 11 de 25
+Execution time (hr): 1383s 660.420883ms
+rss 27.46 MB
+heapTotal 149.19 MB
+heapUsed 130.71 MB
+external 0.01 MB
+
+#Execução 12 de 25
+Execution time (hr): 1390s 737.017003ms
+rss 108.94 MB
+heapTotal 157.44 MB
+heapUsed 121.46 MB
+external 0.01 MB
+
+#Execução 13 de 25
+Execution time (hr): 1375s 415.308152ms
+rss 35.3 MB
+heapTotal 188.47 MB
+heapUsed 176.52 MB
+external 0.01 MB
+
+#Execução 14 de 25
+Execution time (hr): 1360s 916.469671ms
+rss 84.97 MB
+heapTotal 101.16 MB
+heapUsed 75.65 MB
+external 0.01 MB
+
+#Execução 15 de 25
+Execution time (hr): 1347s 710.81793ms
+rss 89.63 MB
+heapTotal 138.19 MB
+heapUsed 130.89 MB
+external 0.01 MB
+
+#Execução 16 de 25
+Execution time (hr): 1339s 307.362638ms
+rss 110.98 MB
+heapTotal 136.44 MB
+heapUsed 121.49 MB
+external 0.01 MB
+
+#Execução 17 de 25
+Execution time (hr): 1328s 702.136152ms
+rss 90.04 MB
+heapTotal 84.91 MB
+heapUsed 66.54 MB
+external 0.01 MB
+
+#Execução 18 de 25
+Execution time (hr): 1354s 716.734839ms
+rss 92.11 MB
+heapTotal 83.66 MB
+heapUsed 75.77 MB
+external 0.01 MB
+
+#Execução 19 de 25
+Execution time (hr): 1345s 69.593503ms
+rss 89.04 MB
+heapTotal 101.41 MB
+heapUsed 66.56 MB
+external 0.01 MB
+
+#Execução 20 de 25
+Execution time (hr): 1363s 20.849524ms
+rss 90.32 MB
+heapTotal 131.94 MB
+heapUsed 121.8 MB
+external 0.01 MB
+
+#Execução 21 de 25
+Execution time (hr): 1376s 539.501893ms
+rss 108.44 MB
+heapTotal 134.44 MB
+heapUsed 121.46 MB
+external 0.01 MB
+
+#Execução 22 de 25
+Execution time (hr): 1374s 451.666114ms
+rss 82.73 MB
+heapTotal 86.91 MB
+heapUsed 66.52 MB
+external 0.01 MB
+
+#Execução 23 de 25
+Execution time (hr): 1371s 942.377836ms
+rss 80.15 MB
+heapTotal 76.41 MB
+heapUsed 66.46 MB
+external 0.01 MB
+
+#Execução 24 de 25
+Execution time (hr): 1366s 617.864976ms
+rss 74.5 MB
+heapTotal 84.16 MB
+heapUsed 75.76 MB
+external 0.01 MB
+
+#Execução 25 de 25
+Execution time (hr): 1361s 411.952651ms
+rss 84.71 MB
+heapTotal 99.16 MB
+heapUsed 75.67 MB
+external 0.01 MB
